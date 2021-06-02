@@ -15,7 +15,7 @@ const Page = () => {
     }
     
     return (
-        <div style={{height:"100%",width:"100%"}} >
+        <div>
             <div style={{height:sheight,width:swidth,background:color,position:"absolute",top:"50%",left:"50%",transform:"translate(-50%,-50%)"}}>
             </div>
             <br />
