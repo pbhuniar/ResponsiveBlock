@@ -22,7 +22,7 @@ const Page = () => {
             <br />
 <div style={{position:"absolute",top:"90%",left:"50%",transform:"translate(-50%,-50%)"}}>
 <button style={{height:"3rem",width:"7rem",background:"red",color:"white",border:"none"}} onClick={chngcolor} >Press</button>
-<h1 style={{visibility:hide}}>Button Clicked</h1>
+<h4 style={{visibility:hide}}>Button Clicked</h4>
 </div>
            
            
