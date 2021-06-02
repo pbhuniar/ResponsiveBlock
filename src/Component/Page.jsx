@@ -15,7 +15,7 @@ const Page = () => {
             display("")
         }
         else {
-            setcolor("red")
+            setcolor("green")
         }
 
     }
